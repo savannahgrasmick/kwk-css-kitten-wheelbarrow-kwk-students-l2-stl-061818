@@ -9,7 +9,7 @@
 
 #kitty-2
 
-/*__write_selector_here__*/ {
+#basket {
   position: absolute;
   z-index: 2;
   top: 212px;
